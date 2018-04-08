@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\bin\Debug\PracticeTask5.exe.config
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\bin\Debug\PracticeTask5.exe
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\bin\Debug\PracticeTask5.pdb
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\obj\Debug\PracticeTask5.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\obj\Debug\PracticeTask5.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\obj\Debug\PracticeTask5.exe
+C:\Users\Алексей\source\repos\PracticeTask5\PracticeTask5\obj\Debug\PracticeTask5.pdb
