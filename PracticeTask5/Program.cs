@@ -45,18 +45,18 @@ namespace PracticeTask5
 
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    // Assigning a ramdom value.
+                    // Assigning a random value.
                     matrix[i, j] = rnd.Next(-100, 101);
                     //matrix[i, j] = Convert.ToInt32(Console.ReadLine());
 
                     // If it's not the 1st element in a string.
                     if (j > 0)
                     {
-                        // If current is greater than precious then it's not a decreasing one for sure.
+                        // If current is greater than previous then it's not a decreasing one for sure.
                         if (matrix[i, j] > matrix[i, j - 1])
                             dec = false;
 
-                        // If current is less than precious then it's not an increasing one for sure.
+                        // If current is less than previous then it's not an increasing one for sure.
                         if (matrix[i, j] < matrix[i, j - 1])
                             inc = false;
                     }
